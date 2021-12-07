@@ -21,17 +21,7 @@ This is the source code for my personal website - a developer and others.
 - [Acknowledgments](#acknowledgments)
 
 ---
-
-## Design
-
-### Fonts
-
-[Fire Code](https://fonts.google.com/specimen/Fira+Code) - headings and code text
-<img alt="Font Example Screenshot" src="./img/readme/fire-code.png">
-
-[Nunito](https://fonts.google.com/specimen/Nunito) - normal text
-<img alt="Font Example Screenshot" src="./img/readme/nunito.png">
-
+    
 ### Color Scheme
 
 - White - all normal text color
@@ -49,9 +39,9 @@ This is the icon of me in [abaiik.github.io/about](https://abaiik.github.io/abou
 
 _Art credits to my friend [Steph](https://www.instagram.com/wynn_stickers/)._
 
-<img alt="Me Icon" src="./img/me-icon.png" width="250px">
-<img alt="Me Icon Smiling" src="./img/me-icon-smiling.png" width="250px">
-<img alt="Me Icon Gif" src="./img/me-icon.gif" width="250px">
+<img alt="Me Icon" src="./img/me-icon.png" width="200px">
+<img alt="Me Icon Smiling" src="./img/me-icon-smiling.png" width="200px">
+<img alt="Me Icon Gif" src="./img/me-icon.gif" width="200px">
 
 ---
 
