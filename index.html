@@ -1,92 +1,175 @@
 <!DOCTYPE html>
-<html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>Neval Nurifvan</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1"><link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Fira+Sans:300,400,500,700,300italic,400italic,500italic,700italic'>
-<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic'>
-<link rel='stylesheet' href='https://s3-us-west-2.amazonaws.com/s.cdpn.io/67439/basic.css'>
-<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic'><link rel="stylesheet" href="./style.css">
-<audio controls>
-  <source src="assets/music.mp3" type="audio/mpeg">
-  Browsermu tidak mendukung tag audio, upgrade donk!
-</audio>
-<blockquote>
-    <p><q>hari ini atau lusa ada yang tidak biasa hanya habiskan masa arungi waktu leburkan rasa lihat saja air di lautan kadang tenang sesekali tinggi bergelombang demikian perasaan sering berubah tidak konstan.</q></p>
-      <footer>Abaiik</footer>
-    </blockquote>
-<blockquote>
-    <p><q>Terkadang merasa lelah untuk segala sesuatu yang terjadi di dunia semesta tidak selalu punya cara untuk buat kita bahagia begitu juga kita yang tidak selalu bisa bahagia karena semua hal itu tidak selamanya selalu baik-baik saja.</q></p>
-      <footer>Abaiik</footer>
-     </blockquote>
-<blockquote>
-     <p><q>Daripada menyesali apa yang sudah terlewat, sebaiknya bersyukur dengan apa yang terjadi sekarang, Pastinya masa sekarang juga akan menjadi sesuatu yg terlewat di masanya.</q></p>
-      <footer>Abaiik</footer>
-     </blockquote>
-<blockquote>
-    <p><q>Saya harap kamu cukup mencintai diri sendiri untuk mengenali hal² yang tidak kamu sukai tentang hidupmu dan saya harap kamu menemukan keberanian untuk mengubahnya.</q></p>
-      <footer>Abaiik</footer>
-    </blockquote>
-<blockquote>
-    <p><q>Jika tidak bisa menjadi manusia pintar , maka jadilah manusia baik dan jika disekitar mu jarang keberadaan orang baik, maka jadilah salah satunya.</q></p>
-      <footer>Abaiik</footer>
-    </blockquote>
-<style type="text/css">
-    #highlight{font:times new norman18px Impact,Courier,Sans-Serif;}
-    </style>
-    <script language="javascript" type="text/javascript">
-     var teks="<marquee>TETAP SEMANGAT :)</marquee>" // teks Anda di sini
-     var speed=20 // atur kecepatan perubahan warna
-      if (document.all||document.getElementById) {
-       document.write('<span id="highlight">' + teks + '</span>')
-     var storetext=document.getElementById? document.getElementById("highlight") :
-       document.all.highlight
-    } else document.write(text)
-     var hex=new Array("00","14","28","3C","50","64","78","8C","A0","B4","C8","DC","F0")
-     var r=1
-     var g=1
-     var b=1
-     var seq=1
-     function changetext() {
-   rainbow="#"+hex[r]+hex[g]+hex[b]
-   storetext.style.color=rainbow
-}
-    function change() {
-      if (seq==6) {
-      b--
-      if (b==0)
-      seq=1
-}
-      if (seq==5) {
-      r++
-      if (r==12)
-      seq=6
-}
-      if (seq==4) {
-      g--
-      if (g==0)
-      seq=5
-}
-      if (seq==3) {
-      b++
-      if (b==12)
-      seq=4
-}
-      if (seq==2) {
-      r--
-      if (r==0)
-      seq=3
-}
-      if (seq==1) {
-      g++
-      if (g==12)
-      seq=2
-}
-      changetext()
-    }
-    function starteffect() {
-       if (document.all||document.getElementById)
-    flash=setInterval("change()",speed)
-}
-    starteffect()
-      </script>
+<html lang="en">
+
+    <head>
+        <title>Neval Nurifvan</title>
+
+        <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+
+        <meta charset="UTF-8">
+
+        <meta property="og:title" content="Abaiik" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="http://abaiik.github.io" />
+        <meta property="og:description"
+            content="Hi! I'm Abaiik. Nothing Here, Maybe there will be something special here." />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:image" content="https://abaiik.github.io/img/me-icon-smiling.png" />
+
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:title" content="Abaiik">
+        <meta name="twitter:description"
+            content="Welcome to My Website. Nothing Special Here">
+        <meta name="twitter:image" content="https://abaiik.github.io/img/me-icon-smiling.png">
+        <meta name="twitter:site" content="@nevalnurifvan">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="copyright" content="Abaiik">
+        <meta name="description"
+            content="Welcome to My Website. Nothing Special Here.">
+        <meta name="keywords"
+            content="Nothing Here, Maybe there will be something special here">
+        <meta name="robots" content="noindex, nofollow" />
+
+        <link rel="canonical" href="https://abaiik.github.io" />
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <link rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+            integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+            crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+        <link rel="stylesheet" href="./css/main.css" type="text/css">
+        <link rel="stylesheet" href="./css/header.css" type="text/css">
+        <link rel="stylesheet" href="./css/home.css" type="text/css">
+        <link rel="stylesheet" href="./css/projects.css" type="text/css">
+        <link rel="stylesheet" href="./css/footer.css" type="text/css">
+    </head>
+
+    <body>
+        <header class="header">
+            <a href="/" class="header-logo">@nevalnurifvan</a>
+            <nav class="nav">
+                <div class="toggle"><i class="fas fa-bars"></i></div>
+                <ul class="nav-menu">
+                    <li class="nav-item"><a href="/about">About</a></li>
+                    <li class="nav-item"><a href="/photos">Photos</a></li>
+                    <li class="nav-item"><a href="/quotes">Quotes</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main class="main-container home-section">
+            <section id="home">
+                <div class="landing-page-details">
+                    <h1 class="small-title">Hi,</h1>
+                    <h2 class="big-title">I'm <span class="my-name pink">Neval Nurifvan</span></h2>
+                    <h3 class="medium-title"><em>For More Information <a class="pink"
+                                href="https://t.me/abaiik">Telegram</a></em></h3>
+                    <div class="short-bio">
+                        <p>Nothing Here, Maybe there will be something special here.</p>
+                    </div>
+                    <div class="cta-container email-container">
+                        <a href="mailto:nurifvan07@gmail.com" class="cta email-button">
+                            <img src="./img/email.svg" alt="Email Icon">
+                            <span>Say Hello</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="art-me">
+                    <img src="./img/me-icon.gif" alt="Me">
+                </div>
+                <div class="landing-page-socials">
+                    <ul>
+                        <li class="social-link">
+                            <a href="https://www.linkedin.com/in/neval-nurifvan-344646158/" aria-label="LinkedIn"
+                                target="_blank">
+                                <i class="fab fa-linkedin-in"></i>
+                            </a>
+                        </li>
+                        <li class="social-link">
+                            <a href="https://github.com/abaiik" aria-label="GitHub"
+                                target="_blank">
+                                <i class="fab fa-github"></i>
+                            </a>
+                        </li>
+                        <li class="social-link">
+                            <a href="https://twitter.com/abaiik_" aria-label="Twitter"
+                                target="_blank">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                        </li>
+                        <li class="social-link">
+                            <a href="https://instagram.com/nevalnurifvan" aria-label="Instagram"
+                                target="_blank">
+                                <i class="fab fa-instagram"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+                <p class="section-description">
+                    Here are some of the projects I have worked on.<br>
+                    You can find more on <a class="hyperlink"
+                        href="https://github.com/abaiik">GitHub</a>.
+                </p>
+            </section>
+        </main>
+
+        <footer class="footer-container">
+            <div class="footer">
+                <div class="footer-column">
+                    <a href="/" class="footer-logo">@nevalnurifvan</a>
+                    <div class="socials">
+                        <ul>
+                            <li class="social-link">
+                                <a href="https://www.linkedin.com/in/neval-nurifvan-344646158/"
+                                    aria-label="LinkedIn" target="_blank">
+                                    <i class="fab fa-linkedin-in"></i>
+                                </a>
+                            </li>
+                            <li class="social-link">
+                                <a href="https://github.com/abaiik" aria-label="GitHub"
+                                    target="_blank">
+                                    <i class="fab fa-github"></i>
+                                </a>
+                            </li>
+                            <li class="social-link">
+                                <a href="https://twitter.com/abaiik_" aria-label="Twitter"
+                                    target="_blank">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                            </li>
+                            <li class="social-link">
+                                <a href="https://instagram.com/nevalnurifvan" aria-label="Instagram"
+                                    target="_blank">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <span class="copyright"><i class="fas fa-copyright"></i> Abaiik 2021</span>
+                </div>
+                <div class="footer-column">
+                    <a href="/about" class="footer-button">
+                        <img src="./img/smile.svg" alt="Smile Icon">
+                        About
+                    <a href="/photos" class="footer-button">
+                        <img src="./img/camera.svg" alt="Camera Icon">
+                        Photos
+                    </a>
+                </div>
+                <!-- <div class="footer-column">
+                    <a href="mailto:nurifvan07@gmail.com" class="footer-button">
+                        <img src="./img/email.svg" alt="Email Icon">
+                        Contact
+                    </a>
+                </div> -->
+        </footer>
+        <script src="./js/main.js"></script>
+    </body>
+
+</html>
