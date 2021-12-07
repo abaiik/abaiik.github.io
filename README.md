@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # [abaiik.github.io](https://abaiik.github.io) - v2.0
 
 This is the source code for my personal website - a developer and others.
@@ -10,18 +9,12 @@ This is the source code for my personal website - a developer and others.
     <img alt="Open Source? Yes!" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/>
     <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/a97a8c74-04cc-4b59-b7b9-71d2800ca95f/deploy-status"/>
 
-</p>
-
-<p align="center">
-  <a href="http://abaiik.github.io"><img src="./img/readme/screenshot.png" width="700px" alt="landing page"></a>
-</p>
-
 ## Table of Contents
 
 - [Design](#design)
-  - [Fonts](#fonts)
-  - [Color Scheme](#color-scheme)
-  - [Icon](#icon)
+- [Fonts](#fonts)
+- [Color Scheme](#color-scheme)
+- [Icon](#icon)
 - [Wireframes](#wireframes)
 - [Built With](#built-with)
 - [Creator / Maintainer](#creator-maintainer)
@@ -92,5 +85,3 @@ If you have any questions, comments, or concerns, feel free to contact me below.
 
 Copyright &copy; 2021 Abaiik. All rights reserved.
 =======
-Project Gabut...
->>>>>>> ef9c5d9472990bf557b799193afd7e1b312a88c5
