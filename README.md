@@ -1,4 +1,4 @@
-# [abaiik.github.io](https://abaiik.github.io) - v2.0
+# [abaiik.github.io](https://abaiik.github.io) - v1.0
 
 This is the source code for my personal website - a developer and others.
 
