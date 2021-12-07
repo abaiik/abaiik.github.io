@@ -37,11 +37,9 @@ This is the source code for my personal website - a developer and others.
 
 This is the icon of me in [abaiik.github.io/about](https://abaiik.github.io/about)
 
-_Art credits to my friend [Steph](https://www.instagram.com/wynn_stickers/)._
-
-<img alt="Me Icon" src="./img/me-icon.png" width="200px">
-<img alt="Me Icon Smiling" src="./img/me-icon-smiling.png" width="200px">
-<img alt="Me Icon Gif" src="./img/me-icon.gif" width="200px">
+<img alt="Me Icon" src="./img/me-icon.png" width="180px">
+<img alt="Me Icon Smiling" src="./img/me-icon-smiling.png" width="180px">
+<img alt="Me Icon Gif" src="./img/me-icon.gif" width="180px">
 
 ---
 
@@ -59,8 +57,8 @@ _Art credits to my friend [Steph](https://www.instagram.com/wynn_stickers/)._
 
 ### Creator / Maintainer
 
-Annie Wu (https://github.com/anniedotexe)
-Abaiik (https://github.com/abaiik)
+-Annie Wu (https://github.com/anniedotexe)
+-Abaiik (https://github.com/abaiik)
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
