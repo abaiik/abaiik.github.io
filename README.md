@@ -1,4 +1,4 @@
-# [abaiik.github.io](https://abaiik.github.io) - v2.0
+# [abaiik.github.io](https://abaiik.github.io) - v1.0
 
 This is the source code for my personal website - a developer and others.
 
@@ -57,9 +57,9 @@ This is the icon of me in [abaiik.github.io/about](https://abaiik.github.io/abou
 
 ### Creator / Maintainer
 
--Annie Wu (https://github.com/anniedotexe)
+- Annie Wu (https://github.com/anniedotexe)
     
--Abaiik (https://github.com/abaiik)
+- Abaiik (https://github.com/abaiik)
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
