@@ -21,7 +21,7 @@ This is the source code for my personal website - a developer and others.
 - [Acknowledgments](#acknowledgments)
 
 ---
-    
+
 ### Color Scheme
 
 - White - all normal text color
@@ -57,10 +57,9 @@ This is the icon of me in [abaiik.github.io/about](https://abaiik.github.io/abou
 
 ### Creator / Maintainer
 
-- Abaiik (https://github.com/abaiik)
+- [`Abaiik`](https://github.com/abaiik/)
 
-- Annie Wu (https://github.com/anniedotexe)
-
+- [`Annie Wu`](https://github.com/anniedotexe)
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
@@ -70,8 +69,6 @@ If you have any questions, comments, or concerns, feel free to contact me below.
   </a>
 </p>
 
-
 ### License
 
-Copyright &copy; 2021 Abaiik. All rights reserved.
-=======
+# Copyright &copy; 2021 Abaiik. All rights reserved.
