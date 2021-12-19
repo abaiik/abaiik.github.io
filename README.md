@@ -24,8 +24,6 @@ This is the source code for my personal website - a developer and others.
 - Viridian Green - project skill text color
 - Slate Gray - mobile navbar background color
 
-<a href="https://coolors.co/ffffff-1d263b-f08cae-399e5a-0fa3b1-6b818c"><img alt="Color Palette Screenshot" src="./img/readme/palette.png"></a>
-
 ## Built With
 
 - 💙 [HTML5](https://www.w3schools.com/html/)
