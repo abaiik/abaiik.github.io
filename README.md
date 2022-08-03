@@ -52,4 +52,4 @@ If you have any questions, comments, or concerns, feel free to contact me below.
 
 ### License
 
-# Copyright &copy; 2021 Abaiik. All rights reserved.
+# Copyright &copy; 2022 Abaiik. All rights reserved.
